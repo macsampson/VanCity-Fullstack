@@ -24,7 +24,7 @@
     "uid": "0.0.2",
     "unzip": "^0.1.11",
     "xml-js": "^1.6.11",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "jslint": "^0.12.1",
