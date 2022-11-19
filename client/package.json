@@ -16,7 +16,7 @@
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
     "react-load-script": "0.0.6",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "react-switch": "^5.0.0",
     "serve": "^11.0.1",
     "toasted-notes": "^2.1.5"
