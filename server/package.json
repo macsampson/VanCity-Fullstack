@@ -13,7 +13,7 @@
     "csvtojson": "^2.0.8",
     "debug": "~2.6.9",
     "dotenv": "^8.0.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "fstream": "^1.0.12",
     "ftp": "^0.3.10",
     "http-errors": "~1.6.3",
